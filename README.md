@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
 
 # Furry Game
@@ -336,3 +337,7 @@ Podziel odpowiednio Twoją aplikację umieszczając w każdym z modułów odpowi
 Pamiętasz funkcję `require()` oraz jak eksportujemy moduły?
 
 **Repozytorium z ćwiczeniami zostanie usunięte 2 tygodnie po zakończeniu kursu. Spowoduje to też usunięcie wszystkich forków, które są zrobione z tego repozytorium.**
+=======
+# furrygame
+Gra tworzona podczas kursu w CodersLab
+>>>>>>> 4e71a7d107c034ee3b7221ee69ed0c6aa8c7cd67
