@@ -1,0 +1,25 @@
+{
+  "name": "furrygame",
+  "version": "1.0.0",
+  "description": "first game in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krzysiekszymanski/furrygame.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "krzysiek szymanski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krzysiekszymanski/furrygame/issues"
+  },
+  "homepage": "https://github.com/krzysiekszymanski/furrygame#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}

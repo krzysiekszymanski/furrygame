@@ -1,2 +1,1 @@
-# furrygame
-Gra tworzona podczas kursu w CodersLab
+Simply game made in JS it was one of my homework at bootcamp
